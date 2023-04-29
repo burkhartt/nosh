@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: Nosh
+description: Nosh
+include: [".well-known"]
